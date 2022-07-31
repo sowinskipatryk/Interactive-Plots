@@ -6,5 +6,4 @@ Of the three - matplotlib events, plotly and ipywidgets package - the first of t
 Meanwhile, ipywidgets has buttons and check boxes that get the job done however, turning off characteristics from the legend box level seems subjectively more appealing.
 <br/><br/>
 
-https://user-images.githubusercontent.com/91700001/181647920-85bb0a30-5e48-4563-9476-15efa3e0e089.mp4
-
+https://user-images.githubusercontent.com/91700001/182043553-956eb118-45db-42c4-83bf-ce4b0eb9ccce.mp4
